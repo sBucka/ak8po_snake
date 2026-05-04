@@ -1,0 +1,41 @@
+## .NET / Visual Studio / Rider build artifacts
+
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userprefs
+*.rsuser
+
+## VS / Rider
+.vs/
+.idea/
+*.swp
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+[Ll]ogs/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Coverage / test
+*.coverage
+*.coveragexml
+TestResult*/
+
+## OS
+Thumbs.db
+.DS_Store
